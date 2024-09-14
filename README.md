@@ -15,4 +15,4 @@ test.csv: A testing training dataset with all the same attributes at train.csv w
 ### Techniques used
 Text preprocessing: Tokenization, Stemming, remove stop words, BOW / (TF-IDF)
 
-Classifier: MultinomialNB Algorithm, Passive Aggressive Classifier
+Classifier: MultinomialNB Algorithm, Passive Aggressive Classifier, LSTM
